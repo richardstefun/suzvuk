@@ -20,7 +20,7 @@ Board also provides polarity markings for flat cables, because it's designed to 
 
 **Capacitors**
 
-This board is designed for **0603** ceramic capacitors (decoupling) and **B-Type** package electrolytic capacitors. It's up to you to choose their values, but recommended to use **100nF** for decoupling and **10uF 25V** for all electrolytic capacitors. You don't need to populate all pads with decoupling capacitors. Recommended placements are next to connectors on edges of board, and **WAGO** connectors. The board works fine without any capacitors, you should only add them if you're experiencing any interference
+This board is designed for **0603** ceramic capacitors (decoupling) and **B-Type** package electrolytic capacitors. It's up to you to choose their values, but recommended to use **100nF** for decoupling and **10uF 25V** for all electrolytic capacitors. You don't need to populate all pads with decoupling capacitors. Recommended placements are next to connectors on edges of board, and **WAGO 256** connectors. The board works fine without any capacitors, you should only add them if you're experiencing any interference
 
 ![enter image description here](https://github.com/richardstefun/suzvuk/raw/master/prvosienka/renders/resistors.png)
 
